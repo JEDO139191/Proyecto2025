@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CLASS30</string>
+    <string name="Sign_in">Inicio de Sesion</string>
+    <string name="Password">Contraseña</string>
+    <string name="Login">Iniciar Sesion</string>
+    <string name="Email">Correo Electronico</string>
+    <string name="New_User">Registrar nuevo usuario</string>
+    <string name="Name">Nombre</string>
+    <string name="Last_name">Apellido</string>
+    <string name="Age">Edad</string>
+    <string name="Register_User">Registrar Usuario</string>
+    <string name="Repeat_Password">Repetir Contraseña</string>
+    <string name="Register">Registrar</string>
+
+</resources>
